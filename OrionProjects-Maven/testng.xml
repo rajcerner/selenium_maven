@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="OrionProjects_Maven.OrionProjects_Maven.AppTest"/>
+      <class name="com.cerner.pctorion.utilities.Settings"/>
+      <class name="com.cerner.pctorion.platformTests.ORN_VR_PatientSearch"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
